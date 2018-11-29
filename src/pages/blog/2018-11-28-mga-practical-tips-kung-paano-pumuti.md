@@ -11,7 +11,6 @@ description: >-
 tags:
   - pumuti
   - pagpapaputi
-  - ''
 ---
 ![Honey on spoon](/img/paano-pumuti.jpg)
 
