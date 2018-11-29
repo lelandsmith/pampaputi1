@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mga Practical Tips Kung Paano Pumuti
-date: 2019-12-31T02:36:00.000Z
+date: 2018-04-05T01:36:00.000Z
 description: >-
   Ikaw ba ay may kayumanggi o maitim na kulay? Siguro, madalas, nakakaranas ka
   ng matinding panunukso mula sa mga kaibigan, kaeskwela o katrabaho mo. At sa
