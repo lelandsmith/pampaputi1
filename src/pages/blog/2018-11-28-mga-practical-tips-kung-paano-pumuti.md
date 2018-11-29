@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: MGA PRACTICAL TIPS KUNG PAANO PUMUTI
+title: Mga Practical Tips Kung Paano Pumuti
 date: 2018-04-04T01:36:18.750Z
 description: >-
   Ikaw ba ay may kayumanggi o maitim na kulay? Siguro, madalas, nakakaranas ka
